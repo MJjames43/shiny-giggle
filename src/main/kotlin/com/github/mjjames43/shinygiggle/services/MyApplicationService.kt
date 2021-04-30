@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mjjames43.shinygiggle.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mjjames43.shinygiggle.MyBundle
 
 class MyApplicationService {
 
